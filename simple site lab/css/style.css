@@ -1,0 +1,57 @@
+body {
+    background: rgb(121, 206, 233);
+}
+div {
+    border: 3px solid rgb(34, 194, 34);
+    padding: 10px 10px;
+    margin: 50px auto;
+    width: 700px;
+    height: 800px;
+}
+img {
+    height: 300px;
+    width: 220px;
+    float: right;
+}
+h1 {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: lighter;
+    text-align: center;
+}
+.Top {
+    color: white;
+    font-weight: bold;
+}
+.Top a {
+    color:rgb(34, 194, 34);
+    font-weight: bold;
+}
+ul {
+    padding: 10px;
+    text-align: center;
+}
+li {
+    display: inline;
+}
+h2 {
+    color: white;
+    font-weight: bold;
+    padding: 20px;
+}
+.line {
+    color:black;
+}
+section {
+    float: left;
+}
+p {
+    color: white;
+    padding: 20px;
+}
+.Bottom a {
+    color: rgb(34, 194, 34);
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+}
