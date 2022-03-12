@@ -63,6 +63,10 @@ p {
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
 }
+.Bottom li {
+    margin-top: 20px;
+    padding-top: 20px;
+}
 input {
     padding: 10px;
     margin-left: 16px;
@@ -70,7 +74,7 @@ input {
 button{
     padding: 10px;
     border: 2px;
-    background-color: aqua;
+    background-color: rgb(34, 194, 34);
     font-weight: bold;
-    color: black;
+    color: white;
 }
