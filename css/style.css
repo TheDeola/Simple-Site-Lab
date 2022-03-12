@@ -51,6 +51,9 @@ h2 {
 section {
     float: left;
 }
+section h3 {
+    margin-left: 16px;
+}
 p {
     color: white;
     padding: 20px;
@@ -59,4 +62,15 @@ p {
     color: rgb(34, 194, 34);
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
+}
+input {
+    padding: 10px;
+    margin-left: 16px;
+}
+button{
+    padding: 10px;
+    border: 2px;
+    background-color: aqua;
+    font-weight: bold;
+    color: black;
 }
